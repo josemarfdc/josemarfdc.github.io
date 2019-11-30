@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Josemar&#39;s Personal Homepage</title>
@@ -6,9 +6,37 @@
     <description>Recent content on Josemar&#39;s Personal Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 04 Nov 2018 21:57:34 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The agruries of Grad school</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sun, 04 Nov 2018 21:57:34 -0500</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description> The agruries of grad school </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Sun, 04 Nov 2018 21:55:24 -0500</pubDate>
+      
+      <guid>/projects/</guid>
+      <description> Community Detection evaluation on Reddit data RNA Sequence and Molecular Docking Emoji as a language </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 04 Nov 2018 21:48:23 -0500</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I&amp;rsquo;m passion&amp;hellip; I have a passion for learning and creating. Since my..</description>
+    </item>
     
   </channel>
 </rss>
